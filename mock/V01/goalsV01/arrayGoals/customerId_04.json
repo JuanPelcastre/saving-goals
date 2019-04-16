@@ -1,0 +1,46 @@
+{
+    "metasJson": [
+        {
+            "nameGoal": "Comprar una Casa",
+            "accountNumber": "2334726138",
+            "amount": "6000.00",
+            "balanceAccumulated": ""
+        },
+        {
+            "nameGoal": "Vacaciones",
+            "accountNumber": "2334727274",
+            "amount": "3000.00",
+            "balanceAccumulated": ""
+        },
+        {
+            "nameGoal": "Ahorro",
+            "accountNumber": "2334727924",
+            "amount": "3000.00",
+            "balanceAccumulated": ""
+        },
+        {
+            "nameGoal": "PRUEBA",
+            "accountNumber": "2334749405",
+            "amount": "30000.00",
+            "balanceAccumulated": ""
+        },
+        {
+            "nameGoal": "LRKFH",
+            "accountNumber": "2334749413",
+            "amount": "38257.00",
+            "balanceAccumulated": ""
+        },
+        {
+            "nameGoal": "LRKFH",
+            "accountNumber": "2334749413",
+            "amount": "38257.00",
+            "balanceAccumulated": ""
+        },
+        {
+            "nameGoal": "LRKFH",
+            "accountNumber": "2334749413",
+            "amount": "38257.00",
+            "balanceAccumulated": ""
+        }
+    ]
+}
