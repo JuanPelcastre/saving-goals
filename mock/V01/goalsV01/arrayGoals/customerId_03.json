@@ -1,46 +1,18 @@
 {
     "metasJson": [
         {
-            "nameGoal": "Comprar un Auto",
+            "id": 0,
+            "nameGoal": "CLIENTE5",
             "accountNumber": "2334726138",
-            "amount": "6000.00",
-            "balanceAccumulated": ""
+            "amount": "65000",
+            "balanceAccumulated": "60000"
         },
         {
-            "nameGoal": "Vacaciones a Cuba",
+            "id": 1,
+            "nameGoal": "MODIFY5",
             "accountNumber": "2334727274",
-            "amount": "3000.00",
-            "balanceAccumulated": ""
-        },
-        {
-            "nameGoal": "Empresa",
-            "accountNumber": "2334727924",
-            "amount": "3000.00",
-            "balanceAccumulated": ""
-        },
-        {
-            "nameGoal": "PRUEBA JAV BCOM",
-            "accountNumber": "2334749405",
-            "amount": "30000.00",
-            "balanceAccumulated": ""
-        },
-        {
-            "nameGoal": "LRKFH",
-            "accountNumber": "2334749413",
-            "amount": "38257.00",
-            "balanceAccumulated": ""
-        },
-        {
-            "nameGoal": "LRKFH",
-            "accountNumber": "2334749413",
-            "amount": "38257.00",
-            "balanceAccumulated": ""
-        },
-        {
-            "nameGoal": "LRKFH",
-            "accountNumber": "2334749413",
-            "amount": "38257.00",
-            "balanceAccumulated": ""
+            "amount": "3000",
+            "balanceAccumulated": "2900"
         }
     ]
 }
